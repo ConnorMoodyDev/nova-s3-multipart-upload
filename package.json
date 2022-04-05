@@ -29,6 +29,6 @@
         "@uppy/screen-capture": "^2.0.6",
         "@uppy/vue": "^0.4.5",
         "@uppy/webcam": "^2.0.5",
-        "laravel-nova": "^1.12.3"
+        "laravel-nova": "^1.12.3|^2.0|^3.0|^4.0"
     }
 }
